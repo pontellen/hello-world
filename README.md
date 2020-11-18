@@ -1,5 +1,5 @@
 # hello-world
 
-This is a test GIT repository to learn how this all works.
+Ok, retesting my Git knowledge today. 11/18/20
 
 Dan Brandner
